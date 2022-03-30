@@ -1,17 +1,17 @@
 <h1 align="center">Hello, I'm Jakub Kłodnicki</h1>
 <h3 align="center">Young developer from Poland</h3>
 
-- 🔭 I’m currently working on [Chess Game](https://github.com/JakubKlodnicki/Chess-Game)
+- 🔭 I’m currently working on: [Chess Game](https://github.com/JakubKlodnicki/Chess-Game)
 
 - 🔭 And much much more private projects, for example: **Web application for segregating invoices**
 
 - 🤝 Developer Partner: [Adam Blady](https://github.com/edgzoah)
 
-- 🌱 I’m currently learning more about **Javascript, Python**
+- 🌱 I’m currently learning more about: **Javascript, Python**
 
-- 👨‍💻 My portfolio [LINKPORTFOLIO](LINKPORTFOLIO)
+- 👨‍💻 My portfolio: [LINKPORTFOLIO](LINKPORTFOLIO)
 
-- 📫 How to reach me **kuba.klodnicki@gmail.com**
+- 📫 How to reach me: **kuba.klodnicki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
