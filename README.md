@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Chess Game](https://github.com/JakubKlodnicki/Chess-Game)
 
-- 🌱 I’m currently learning more about **Javascript, Python**
-
 - 🔭 And much much more private projects, for example: **Web application for segregating invoices**
+
+- 🌱 I’m currently learning more about **Javascript, Python**
 
 - 👨‍💻 My portfolio [LINKPORTFOLIO](LINKPORTFOLIO)
 
