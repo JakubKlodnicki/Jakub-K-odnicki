@@ -5,7 +5,7 @@
 
 - 🔭 And much much more private projects, for example: **Web application for segregating invoices**
 
-- 🔭 Developer Partner: [Adam Blady](https://github.com/edgzoah)
+- 🤝 Developer Partner: [Adam Blady](https://github.com/edgzoah)
 
 - 🌱 I’m currently learning more about **Javascript, Python**
 
