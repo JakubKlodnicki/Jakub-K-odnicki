@@ -1,13 +1,11 @@
 <h1 align="center">Hello, I'm Jakub Kłodnicki</h1>
 <h3 align="center">Young developer from Poland</h3>
 
-- 🔭 I’m currently working on: [Chess Game](https://github.com/JakubKlodnicki/Chess-Game)
+- 🔭 Best projects:
+- EFI for lenovo yoga to get macos: https://github.com/JakubKlodnicki/EFI-Hackintosh-Lenovo-Yoga-720-13-ikb
+- Twitter in flask: (AT THIS MOMENT THIS REPOSITORY IT`S PRIVATE)
 
-- 🔭 And much much more private projects, for example: **Web application for segregating invoices**
-
-- 🌱 I’m currently learning more about: **Javascript, Python**
-
-- 👨‍💻 My portfolio: [LINKPORTFOLIO](LINKPORTFOLIO)
+- 🔭 And much much more private projects, for example: **Web application for segregating invoices or my own twitter in flask**
 
 - 📫 How to reach me: **kuba.klodnicki@gmail.com**
 
