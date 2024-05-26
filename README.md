@@ -3,7 +3,8 @@
 
 - 🔭 Best projects:
 - EFI for lenovo yoga to get macos: https://github.com/JakubKlodnicki/EFI-Hackintosh-Lenovo-Yoga-720-13-ikb
-- Twitter in flask: https://github.com/JakubKlodnicki/ALJ-PAI-TWITTER
+- Own CHATGPT on your own api openAI: https://github.com/JakubKlodnicki/gpt-webapp
+- Chatgpt bot for telegram on your own api openAI: https://github.com/JakubKlodnicki/openai-telegrambot
 - Game TOP-DOWN in unity: https://github.com/JakubKlodnicki/THSC-Rooms
 
 - 🔭 And much much more private projects, for example: **Web application for segregating invoices or my own twitter in flask**
